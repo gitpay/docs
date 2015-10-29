@@ -1,2 +1,2 @@
 # docs
-gitpay documentation
+https://melvincarvalho.gitbooks.io/gitpay/content/
